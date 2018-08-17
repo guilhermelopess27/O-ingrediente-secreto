@@ -1,0 +1,57 @@
+ /E lá estava ela novamente em frente à grande mansão. @
+ /Bateu na porta e esperou, esperou e esperou até que a porta abriu-se com um rangido. @
+ /O homem a recebeu alegremente. @
+???/ㅡ Você voltou. @
+Caelesti/ㅡ Sim, cá estou. @
+???/ㅡ Onde está a minha estrela? @
+Caelesti/ㅡ Aqui. @
+ /A garota pegou-a das patas do pequeno bichinho e estendeu-a para o homem. @
+ /A estrela era pequena, mas muito, muito brilhante. @
+???/ㅡ Cadê, senhorita? @
+???/ㅡ Onde está que eu não a vejo? @
+Caelesti/(???) @
+Caelesti/ㅡ Está aqui, em minhas mãos. @
+???/ㅡ Eu não estou a vê-la. @
+Caelesti/ㅡ Mas ela está bem aqui, senhor, brilhante como nunca. @
+???/ㅡ Deve haver algum engano! @
+???/ㅡ Onde está a estrela que iria iluminar todo o meu mundo??? @
+Caelesti/ㅡ Supostamente está em minhas mãos. @
+Caelesti/ㅡ Aqui, clara como a luz do dia. @
+Caelesti/ㅡ Não está vendo? @
+???/ㅡ Não a vejo! @
+???/ㅡ NÃO VEJO NADA! @
+???/ㅡ NUNCA VI NADA! @
+Caelesti/ (será que ficou louco?) @
+???/ㅡ Achei que se me trouxesse a estrela mais brilhante eu iria começar a ver! @
+Caelesti/ㅡ … @
+Caelesti/ㅡ Você é...?  @
+???/ㅡ NÃO! @
+???/ㅡ Digo, isso não é possível! @
+Caelesti/ㅡ Ah, meu bom senhor, tudo é possível. @
+Caelesti/ㅡ Eu te trouxe a estrela mais brilhante. @
+Caelesti/ㅡ Mas você não é capaz de vê-la devido à sua cegueira. @
+Caelesti/ㅡ Sinto muito. @
+???/ㅡ Não pode ser… @
+???/ㅡ Não, não, não… @
+???/ㅡ Eu esperei toda a minha vida por isso! @
+???/ㅡ Não pode ser possível!  @
+Caelesti/ㅡ Pois é. @
+???/ㅡ Você deve estar brincando comigo! @
+Caelesti/ㅡ Não estou. @
+???/ㅡ Saia! Saia daqui! @
+Caelesti/ㅡ ??? @
+???/ㅡ E leve essa maldita estrela com você! @
+???/ㅡ Nunca mais volte aqui! @
+Caelesti/ㅡ Mas senhor… @
+???/ㅡ Você não me ouviu? @
+Caelesti/ㅡ … @
+Caelesti/ㅡ … @
+Caelesti/ㅡ Que seja. @
+ /Cansada e com a paciência esgotada, Caeleste saiu dali a passos largos o mais rápido que pôde para nunca mais voltar. @
+ /Não tinha lugar para pessoas mal-agradecidas no coração da menina. 
+
+
+
+
+
+

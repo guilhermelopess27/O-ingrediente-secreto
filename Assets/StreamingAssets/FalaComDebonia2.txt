@@ -1,0 +1,32 @@
+﻿ /Caelesti retornou à praça, onde a mulher ainda a esperava. @
+
+Caelesti/ㅡ Aqui está, senhorita. @
+Moça/ㅡ !!! @
+Caelesti/ㅡ Leve isso a um joalheiro juntamente com o seu colar, ele dará um jeito. @
+Moça/ㅡ MUITO OBRIGADA! @
+Caelesti/ㅡ … @
+Moça/ㅡ Ops, desculpe!  @
+Moça/ㅡ Obrigada, obrigada, obrigada! Muito obrigada! @
+Caelesti/ㅡ De… nada (?) @
+
+ /Caelesti entregou-lhe as lascas cintilantes e vermelhas. A mulher saltitava de felicidade. @
+
+Moça/ㅡ Bem, aqui está. @
+
+ /Ela separou uma das lascas e a jogou no chão. A jogou-a de novo e de novo e de novo e continuou a fazer isso até que houvesse um pó vermelho e luminoso. @
+ /A mulher vermelha abaixou-se para recolher aquele pó e entregou-o nas mãos sem cor de Caelesti. @
+
+Caelesti/ㅡ Obrigada… Eu acho. @
+Caelesti/ㅡ Espero que você consiga consertá-lo, sabe? O colar… @
+Moça/ㅡ Sim, querida, eu também espero. @
+ /Ela sorria de uma forma que fez com que Caelesti se sentisse quentinha por dentro, feliz por ter ajudado alguém, e sem que percebesse a garota sem cor já esboçava um sorriso enquanto caminhava para longe acompanhada do monstrinho. @
+ /Caelesti olhou a lista, faltava apenas mais um serviço. Sorriu para o companheiro de olhos vermelhos. @
+Caelesti/ㅡ Eu terminarei isso, com certeza terminarei! @
+Caelesti/ㅡ E, quem sabe talvez…  @
+Caelesti/ㅡ Só talvez… @
+Caelesti/ㅡ Eu realize o meu desejo. @
+
+ / . . . @
+ /Continua. . . @
+ /Obrigado por jogar Caelesti.
+

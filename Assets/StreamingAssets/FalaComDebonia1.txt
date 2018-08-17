@@ -1,0 +1,47 @@
+ /Após a exaustiva tarefa com o homem azul, o céu já estava completamente escuro. @
+ /As estrelas brilhavam como pequenos diamantes na imensidão do céu negro. @
+ /Caelesti, cansada, se dirigia ao segundo endereço com certa relutância, já estava farta daquilo. O monstrinho voava baixo ao seu lado. @
+ /O vento soprava forte quando ela avistou uma praça ao longe. @
+ /Sentada num canteiro de flores vermelhas como cerejas maduras,  estava uma mulher de cor avermelhada semelhante às flores. @
+ /Percebendo a aproximação de Caelesti, a moça levantou-se e dirigiu-lhe um olhar curioso, provavelmente porque nunca vira alguém “sem cor” como Caelesti. @
+
+Moça/ㅡ A noite está tão agradável, não é? As estrelas estão lindas hoje! @
+Caelesti/ㅡ De fato estão… @
+Moça/ㅡ … @
+Caelesti/ㅡ … @
+Caelesti/(por quanto tempo isso vai durar?) @
+Moça/ㅡ … @
+Caelesti/ㅡ Então… Uma senhora de cor roxa pediu-me… @
+Moça/ㅡ Então és tu quem veio ajudar-me? @
+Caelesti/ㅡ Eu vim buscar o que aquela senhora me pediu, apenas. @
+Moça/ㅡ Ó, jovem menina, rogo-lhe por sua ajuda.  @
+Caelesti/(mais um não…) @
+Moça/ㅡ AJUDAI-ME, IMPLORO-TE!  @
+Caelesti/ㅡ … @
+Caelesti/ㅡ Se eu ajudá-la, a senhorita irá parar com esse drama desnecessário? @
+Moça/ㅡ Se me ajudares, prometo que me calarei! @
+Caelesti/ㅡ Um a mais não vai fazer diferença… @
+Moça/ㅡ O que disse, querida? @
+Caelesti/ㅡ Eu a ajudarei. @
+Moça/ㅡ YAAAAAY!!! @
+Caelesti/ㅡ … @
+Caelesti/ㅡ O que a senhorita quer? @
+Moça/ㅡ Há algum tempo, a pessoa que eu amo me deu um presente…  @
+Moça/ㅡ Mas ela me deixou… Passou dessa pra melhor... @
+Moça/ㅡ Por isso esse presente me é muito querido… Só que… eu o quebrei. @
+Caelesti/ㅡ Como assim você pôde quebrar algo que é tão importante para você? @
+Moça/ㅡ Eu não sei, eu não sei… @
+Moça/ㅡ Mas eu o quebrei sem querer! @
+Caelesti/ㅡ Mostre-me o seu presente, talvez eu tenha uma ideia de como consertá-lo. @
+
+ /A moça entregou para Caelesti um colar feito de um minério tão vermelho e brilhante quanto as pedras preciosas que o enfeitavam.  @
+
+Caelesti/ (eu reconheço isso, mas…)  @
+Caelesti/ㅡ Isto foi feito com um certo tipo de meteorito vermelho e… @
+Moça/ㅡ Ótimo! Conserte-o para mim e te darei o que você precisa! @
+Caelesti/ㅡ …  @
+Caelesti/ (é melhor terminar isso logo…) @
+
+ /Enquanto pensava sobre o meteoro, Caelesti lembrou-se do monstrinho voador quando o mesmo espirrou. @
+ /É isso! Ele fora capaz de apanhar a estrela mais brilhante, então com certeza poderia apanhar o meteoro que precisavam.
+
